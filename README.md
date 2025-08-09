@@ -31,19 +31,11 @@ Generate stunning images using Stable Diffusion v2 and get creative prompt sugge
 - Use the GPT-2 prompt suggestion feature for inspiration.
 - View and download generated images.
 
-## Project Structure
-
-```
-.
-├── app.py
-├── requirements.txt
-├── .env
-├── .gitignore
-├── README.md
-└── .devcontainer/
-    └── devcontainer.json
-```
-
 ## Environment Variables
 
 - `HF_TOKEN`: Your Hugging Face token for accessing models.
+
+## Team Members
+
+- **Deval Patel**
+- **Naishil Patel**
