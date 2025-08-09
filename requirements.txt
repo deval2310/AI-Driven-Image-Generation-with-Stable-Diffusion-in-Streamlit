@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+diffusers
+Pillow
+opencv-python
+numpy
+matplotlib
+pandas 
+python-dotenv
