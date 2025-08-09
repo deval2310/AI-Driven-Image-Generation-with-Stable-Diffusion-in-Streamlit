@@ -39,3 +39,8 @@ Generate stunning images using Stable Diffusion v2 and get creative prompt sugge
 
 - **Deval Patel**
 - **Naishil Patel**
+
+<img width="1920" height="890" alt="Screenshot (498)" src="https://github.com/user-attachments/assets/8793748b-97be-4fba-b05c-0b05a3aa2ca9" />
+
+<img width="1920" height="904" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/b5815651-5050-4ccf-859e-a508bad15cce" />
+
